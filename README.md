@@ -11,9 +11,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=littleandrebomfim&show_icons=true&locale=en&layout=compact" alt="littleandrebomfim" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=littleandrebomfim&hide=contribs,prs)
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
