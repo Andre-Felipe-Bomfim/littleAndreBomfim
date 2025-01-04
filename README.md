@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre-Felipe-Bomfim&show_icons=true&locale=en&layout=compact" alt="littleandrebomfim" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=littleandrebomfim&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-Felipe-Bomfim&hide=contribs,prs)
